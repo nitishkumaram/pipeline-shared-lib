@@ -1,0 +1,2 @@
+printname(name)
+    prints out a person name
